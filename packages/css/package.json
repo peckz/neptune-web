@@ -48,7 +48,7 @@
     "transferwise-iconfont": "transferwise/iconfont"
   },
   "devDependencies": {
-    "autoprefixer": "^9.6.1",
+    "autoprefixer": "^9.7.6",
     "cpx": "^1.5.0",
     "cssnano": "^4.1.10",
     "gulp": "^4.0.2",
